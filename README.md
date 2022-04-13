@@ -12,8 +12,8 @@ I love supporting the **[EFF](https://c.tenor.com/JhfsrtyytIAAAAAi/trebol-leaf.g
 Gris = {
         **pronouns:** 'Gris',
         code: ['HTML', 'CSS', 'C', 'Java', 'Python'],
-        tools: ['SQL Server', ''],
-        areas: ['Data Science', 'Big Data', 'Cloud', 'Bases denDatos']
+        tools: ['SQL Server', 'MongoDB','Google Data Studio','Orange', 'Excel Intermedio'],
+        areas: ['Data Science', 'Big Data', 'Cloud', 'Bases de Datos']
 }
 ```
 <!---
