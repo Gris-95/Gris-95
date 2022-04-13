@@ -10,6 +10,15 @@ I love supporting the **[EFF](https://c.tenor.com/JhfsrtyytIAAAAAi/trebol-leaf.g
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+
+:pouting_woman: A little more about me...
+Gris = {
+        pronouns: 'Gris',
+        code: ['HTML', 'CSS', 'C', 'Java', 'Python'],
+        tools: ['SQL Server', ''],
+        areas: ['Data Science', 'Big Data', 'Cloud', 'Bases denDatos']
+}
+
 <!---
 Gris-95/Gris-95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
