@@ -1,4 +1,7 @@
 # Hey, I'm Griselda Silvestre
+*Soy una chica apasionada por el código y mi enfoque abarca las siguientes áreas*
+
+
 I love supporting the **[EFF](https://c.tenor.com/JhfsrtyytIAAAAAi/trebol-leaf.gif)**.
 ![Image text] (https://i.pinimg.com/originals/40/21/e5/4021e5ccd8237b38aa400448b4c7832e.jpg)
 - 👋 Hi, I’m Griselda Silvestre
